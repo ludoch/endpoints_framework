@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.google.appengine</groupId>
     <artifactId>endpoints-framework-parent</artifactId>
-    <version>2.2.6</version>
+    <version>2.2.7-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Endpoints :: Parent project</name>
     <modules>
@@ -35,7 +35,7 @@
         <connection>scm:git:git://github.com/GoogleCloudPlatform/appengine-java-standard.git</connection>
         <url>https://github.com/GoogleCloudPlatform/appengine-java-standard</url>
         <developerConnection>scm:git:ssh://git@github.com/GoogleCloudPlatform/appengine-java-standard.git</developerConnection>
-        <tag>endpoints-framework-parent-2.2.6</tag>
+        <tag>endpoints-framework-parent-2.2.5</tag>
     </scm>
     <licenses>
         <license>
